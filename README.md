@@ -1,5 +1,5 @@
 # Min-Max-
-Min max in python using import
+#Min max in python using import
 import numpy
 
 n,m=map(int,input().split())
